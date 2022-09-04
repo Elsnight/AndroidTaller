@@ -4,4 +4,5 @@
     <string name="registrar">Registrar</string>
     <string name="contrase_a">contraseña</string>
     <string name="email">email</string>
+    <string name="prefs_file">com.example.firebase.PREFERENCE_FILE_KEY</string>
 </resources>
