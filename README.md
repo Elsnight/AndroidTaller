@@ -4,7 +4,8 @@
  - MIGUEL CUENCA
  - LUIS CATOTA
 
-Implemetar una aplicacion en Android studio que escriba o lea de firebase (Realtime Database):
+Implemetar una aplicacion en Android studio que escriba o lea de firebase:
+Se implemento un login con el uso de firebase , con la ayuda de las herramientas de android studio
 
 
 Enlace al sitio oficial web: [Adroid developer]
@@ -12,7 +13,7 @@ Enlace al sitio oficial web: [Adroid developer]
 Enlace al sitio oficial web: [Firebase]
 
   [Adroid developer]: https://developer.android.com/
-  [Firebaser]: https://developer.android.com/
+  [Firebase]: https://developer.android.com/
 
 
 EVIDENCIAS DE LA APP
