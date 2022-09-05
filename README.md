@@ -13,7 +13,7 @@ Enlace al sitio oficial web: [Adroid developer]
 Enlace al sitio oficial web: [Firebase]
 
   [Adroid developer]: https://developer.android.com/
-  [Firebase]: https://developer.android.com/
+  [Firebase]: https://firebase.google.com/docs?hl=es-419
 
 
 EVIDENCIAS DE LA APP
